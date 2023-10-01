@@ -1,0 +1,12 @@
+start git copy the url 
+git init
+ git rmemote add origin https://github.com/irshad981/templadd .  
+git commit -m "inital commit"
+git push origin master 
+
+
+
+now we are changing some content then we 
+git add .
+ git c ommit -m 'this is me' 
+ git push origin master                                                                      
